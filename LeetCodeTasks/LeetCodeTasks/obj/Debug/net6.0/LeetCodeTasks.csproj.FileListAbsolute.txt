@@ -1,0 +1,15 @@
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\bin\Debug\net6.0\LeetCodeTasks.exe
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\bin\Debug\net6.0\LeetCodeTasks.deps.json
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\bin\Debug\net6.0\LeetCodeTasks.runtimeconfig.json
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\bin\Debug\net6.0\LeetCodeTasks.dll
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\bin\Debug\net6.0\LeetCodeTasks.pdb
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\obj\Debug\net6.0\LeetCodeTasks.csproj.AssemblyReference.cache
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\obj\Debug\net6.0\LeetCodeTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\obj\Debug\net6.0\LeetCodeTasks.AssemblyInfoInputs.cache
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\obj\Debug\net6.0\LeetCodeTasks.AssemblyInfo.cs
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\obj\Debug\net6.0\LeetCodeTasks.csproj.CoreCompileInputs.cache
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\obj\Debug\net6.0\LeetCodeTasks.dll
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\obj\Debug\net6.0\refint\LeetCodeTasks.dll
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\obj\Debug\net6.0\LeetCodeTasks.pdb
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\obj\Debug\net6.0\LeetCodeTasks.genruntimeconfig.cache
+C:\projects\С(sharp)\leetCodeTasks\LeetCodeTasks\LeetCodeTasks\obj\Debug\net6.0\ref\LeetCodeTasks.dll
